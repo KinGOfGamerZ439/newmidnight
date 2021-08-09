@@ -1,0 +1,47 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(43, 23, 230);
+}
+.heading1
+{
+  float: none;
+  background: whitesmoke;
+  padding: 10px;
+  border-radius: 20px;
+  color: rgb(13, 13, 223);
+  box-shadow: 5px 5px 5px rgb(18, 168, 12);
+}
+.heading2
+{
+    font-size: 18px;
+}
+body
+{
+  background-size: cover;
+}
+canvas
+{
+   border: 5px solid chartreuse;
+   border-radius: 20px;
+   box-shadow: 5px 5px 5px rgb(0, 204, 255);
+   margin-top: 150px;
+}
+#Scolding
+{
+ position: fixed;
+ color: rgb(0, 26, 255);
+ bottom: 0;
+ width: 100%;
+ background-color: red;
+ line-height: 3;
+ text-align: center;
+}
+.Raj_Ee_Gali_Khale
+{
+  box-shadow: 5px 5px 5px rgb(0, 204, 255);
+  font-size: 20px;
+  
+}
